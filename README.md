@@ -68,7 +68,7 @@ notes-api/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/notes-api.git
+git clone https://github.com/procopiys/notes-api.git
 cd notes-api
 ```
 
